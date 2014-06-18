@@ -1,0 +1,12 @@
+.table tbody tr.error > td,
+.table tbody td.error{
+    background-color: #f2dede;
+}
+.label, .badge {
+    font-size: 10px !important;
+    float: right;
+}
+#translate_form textarea{
+    height: 300px;
+    width: 505px;
+}
